@@ -1,2 +1,2 @@
 # Machine-Learning
-Knn and Naive Bayes from strach
+Knn and Naive Bayes from scratch
